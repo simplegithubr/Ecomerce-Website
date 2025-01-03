@@ -6,8 +6,8 @@ function Hero() {
     <div className='flex justify-evenly p-6 mt-9 bg-pink-300 '>
     
       <div className='space-y-4 mt-16  '>
-        <h1 className='font-bold text-3xl text-gray-white'>Welcome to Kinzaa's Bazar</h1>
-        <p className='text-xl font-sans text-gray-500 ml-4  '>Your one-stop shop for amazing products</p>
+        <h1 className='font-bold text-3xl text-gray-white'>Welcome to Kinzaa s Bazar</h1>
+        <p className='text-xl font-sans text-gray-500 ml-4  '>Your one stop shop for amazing products</p>
        
         <button className='bg-blue-600 p-2 rounded ml-[33%] text-white px-3 hover:bg-slate-500'> Shop Now</button>
    
