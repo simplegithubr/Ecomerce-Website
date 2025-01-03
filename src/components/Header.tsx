@@ -9,7 +9,7 @@ function Header() {
   return (
     <div>
       <div className=' flex justify-evenly p-9 shadow-md  '>
-        <h1 className='font-bold text-2xl '>Kinzaa's Bazaar</h1>
+        <h1 className='font-bold text-2xl '>Kinzas Bazaar</h1>
         <ul className='space-x-5 text-black   text-xl'>
           <Link href="/">Home</Link>
           <Link href="product">Product</Link>
